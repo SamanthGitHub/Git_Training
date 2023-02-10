@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-This is smaple file1
-=======
-This is file 1
->>>>>>> bf65b9c0427513fdbf64216571dbcf076382e704
+
+this is file 2 and new file
+dfjsdfjdjf
+hgffgsdjfg
+fxjgjjg
